@@ -1,2 +1,4 @@
 stuff add some work
 working >>>
+
+creating a class
